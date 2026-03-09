@@ -47,7 +47,7 @@ To assign a user or group account to an enterprise application:
 1. Enter the name of the existing application in the search box, and then select the application from the search results.
 1. Select **Users and groups**, and then select **Add user/group**.
 
-    :::image type="content" source="media/add-application-portal-assign-users/assign-user.png" alt-text="Assign user account to an application in your Microsoft Entra tenant.":::
+    :::image type="content" source="media/add-application-portal-assign-users/new-image.png" alt-text="Assign user account to an application in your Microsoft Entra tenant.":::
 
 1. On the **Add Assignment** pane, select **None Selected** under **Users and groups**.
 1. Search for and select the user or group that you want to assign to the application. For example, `contosouser1@contoso.com` or `contosoteam1@contoso.com`.
